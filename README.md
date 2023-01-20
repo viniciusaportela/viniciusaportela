@@ -51,8 +51,6 @@
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
 </div>
 
-<br/>
-
 # Reach me out!
 - [Linkedin](https://www.linkedin.com/in/vinicius-portela/)
 - **Email**: vinicius.portela.stm@gmail.com
