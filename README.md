@@ -1,6 +1,5 @@
  ![](header.png)
 
-![](technologies.png)
 ## I work/worked on daily basis
 
 <div>
@@ -54,10 +53,6 @@
 
 <br/>
 
-![](reach_me_out.png)
+# Reach me out!
 - [Linkedin](https://www.linkedin.com/in/vinicius-portela/)
 - **Email**: vinicius.portela.stm@gmail.com
-
-![](learning.png)
-- [CSS for JS](https://css-for-js.dev/)
-- [Dive into Design Patterns](https://refactoring.guru/design-patterns/book)
