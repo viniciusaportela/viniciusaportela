@@ -37,7 +37,7 @@ I live in Florianópolis/Brazil and study on UFSC in Santa Catarina/Brazil. I st
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
-### I'm also experimented with
+### I also experimented
 <div>
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
