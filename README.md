@@ -1,6 +1,6 @@
  ![](header.png)
 
-I live in Florianópolis/Brazil and study on UFSC in Santa Catarina/Brazil. I started programming with game development and discovered the world of web development when I was on a technical high school. I love learning new things and putting it in practice. So I'm constantly learning and improving myself professionally and personally.
+I live in Florianópolis/Brazil. I started programming with game development and discovered the world of web development when I was on a technical high school. I love learning new things and putting it in practice. So I'm constantly learning and improving myself professionally and personally.
 
 ## 🚀 Technologies
 
